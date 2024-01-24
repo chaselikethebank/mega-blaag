@@ -48,6 +48,15 @@ export default {
           { text: "Recognizing Patterns", link: "/design-patterns/agency" },
         ],
       },
+      {
+        text: "Ministries",
+        collapsible: true,
+        items: [
+          { text: "NextGen", link: "/ministries/nextgen" },
+          
+        ],
+      },
+
     ],
     footer: {
       message: "Explore and learn. Released under the MIT License.",
