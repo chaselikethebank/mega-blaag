@@ -2,36 +2,36 @@
 layout: home
 
 hero:
-  name: Adocs
-  text: Static docs template built with VitePress.
+  name: Style Guide
+  text: Post in Confidence
   image:
     src: /star1.svg
     alt: Adocs logo
-  tagline: A free to use template for creating docs for your projects
+  tagline: Frameworks and Mental Models to answer 80% your media questions
   actions:
     - theme: brand
       text: Get Started
-      link: /get-started
+      link: /introduction
     - theme: alt
       text: View on GitHub
-      link: https://github.com/chaselikethebank
+      link: https://github.com/chaselikethebank/sm-guide
 
 
-link: https://github.com/chaselikethebank
+link: https://github.com/chaselikethebank/sm-guide
 
 features:
-  - icon: ⚡️
-    title: Adocs, The DX that can't be beat
-    details: Lorem ipsum...
-  - icon: 🎉
-    title: Power of Vue meets Markdown
-    details: Lorem ipsum...
+  - icon: 🔄
+    title: Continuity
+    details: A clearly articulated brand is a strong brand. Let's operate in lock-step... at least say, 80% of the time
+  - icon: 📚 
+    title: Resources
+    details: From hex codes to logos, from CTAs to ?  
   - icon: 🔥
-    title: Simple and minimal, always
+    title: 
     details: Lorem ipsum...
-  - icon: 🎀
-    title: Stylish and cool
-    details: Lorem ipsum...
+  - icon: ⚡️
+    title: Speed
+    details: If all your questions are answered, you can move quickly
 
    
 ---
