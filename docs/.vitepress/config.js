@@ -5,7 +5,7 @@ export default {
     logo: "/star1.svg",
     siteTitle: "Docs HQ",
     nav: [
-      { text: "About", link: "/about" },
+      { text: "Goals", link: "/about" },
       { text: "Contact", link: "/contact" },
       { text: "Guide", link: "/guide/index" },
       // { text: "Design Patterns", link: "/design-patterns/introduction" },
