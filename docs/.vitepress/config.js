@@ -12,15 +12,15 @@ export default {
       { 
         text: "Changelog",
         items: [
-          { text: "v0.0.1", link: "/item-1" },
-          { text: "v0.0.2", link: "/item-2" },
-          { text: "v0.0.3", link: "/item-3" },
+          { text: "v0.0.1", link: "/index" },
+          // { text: "v0.0.2", link: "/item-2" },
+          // { text: "v0.0.3", link: "/item-3" },
         ]
       },
     ],
     socialLinks: [
-      { icon: "github", link: "https://github.com/chaselikethebank" },
-      { icon: "twitter", link: "https://twitter.com/veryjazzed" },
+      { icon: "github", link: "https://github.com/chaselikethebank/sm-guide" },
+      { icon: "twitter", link: "" },
       { icon: "discord", link: "", target: "_blank" },
     ],
     sidebar: [
