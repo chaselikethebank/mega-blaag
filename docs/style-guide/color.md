@@ -1,5 +1,5 @@
 
-# Palette #ffffff
+# Color Palette 
 
 ## Primary Brand 
 <div style="width: 100px; height: 100px; border-radius: 100px; background-color: #850129;"></div>
