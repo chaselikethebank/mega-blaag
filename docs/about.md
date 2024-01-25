@@ -1,4 +1,4 @@
-# Why ?!
+# Why
 ## Current State
 In a sea of people and resources, standards media messaging, and design systems can experience friction, noise and chaos. 
 
