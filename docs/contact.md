@@ -7,9 +7,7 @@ If you would like to simply make ammendments to the guide, here is the public re
 
 - **GitHub:** [chaselikethebank/sm-guide](https://github.com/chaselikethebank/sm-guide)
 
-please, submit a pull request.
-
-Or we can connect via email.
+Please, submit a pull request or connect via email.
 
 Ty,
 Chase
