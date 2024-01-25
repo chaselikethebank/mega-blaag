@@ -29,14 +29,16 @@ export default {
         collapsible: true,
         items: [
           { text: "Introduction", link: "/about" },
-          { text: "Step-2", link: "/step-2" },
+          // { text: "Step-2", link: "/step-2" },
         ],
       },
       {
         text: "Style Guide",
         collapsible: false,
         items: [
+          { text: "Style Start", link: "/style-guide/start-here" },
           { text: "Typography", link: "/style-guide/typography" },
+          
           { text: "Color Palette", link: "/style-guide/color" },
         ],
       },

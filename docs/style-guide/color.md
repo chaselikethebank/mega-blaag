@@ -1,3 +1,3 @@
-# color pallete
+# color palette
 
 stuff goes here
