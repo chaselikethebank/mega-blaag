@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /introduction
+      link: /about
     - theme: alt
       text: View on GitHub
       link: https://github.com/chaselikethebank/sm-guide

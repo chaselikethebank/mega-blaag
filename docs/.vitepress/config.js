@@ -1,18 +1,18 @@
 export default {
-  title: "Documentation Hub",
-  description: "Explore our documentation, style guide, and design patterns.",
+  title: "Docs HQ",
+  description: "Explore documentation, style guide, and design patterns.",
   themeConfig: {
     logo: "/star1.svg",
     siteTitle: "Docs HQ",
     nav: [
-      { text: "Goals", link: "/about" },
+      { text: "Getting Started", link: "/about" },
       { text: "Contact", link: "/contact" },
-      { text: "Guide", link: "/guide/index" },
+      // { text: "Guide", link: "/guide/index" },
       // { text: "Design Patterns", link: "/design-patterns/introduction" },
       { 
         text: "Changelog",
         items: [
-          { text: "v0.0.1", link: "/index" },
+          { text: "v1.0.0", link: "/index" },
           // { text: "v0.0.2", link: "/item-2" },
           // { text: "v0.0.3", link: "/item-3" },
         ]
@@ -20,15 +20,15 @@ export default {
     ],
     socialLinks: [
       { icon: "github", link: "https://github.com/chaselikethebank/sm-guide" },
-      { icon: "twitter", link: "" },
-      { icon: "discord", link: "", target: "_blank" },
+      // { icon: "twitter", link: "" },
+      // { icon: "discord", link: "", target: "_blank" },
     ],
     sidebar: [
       {
         text: "Getting Started",
         collapsible: true,
         items: [
-          { text: "Introduction", link: "/introduction" },
+          { text: "Introduction", link: "/about" },
           { text: "Step-2", link: "/step-2" },
         ],
       },
