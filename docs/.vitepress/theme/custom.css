@@ -20,3 +20,20 @@
   /* --vp-font-family-mono: "Space Mono", Menlo, Monaco, Consolas, "Courier New",
     monospace; */
 }
+
+.checkbox-container {
+  list-style: none; /* Remove default list-style */
+}
+
+.checkbox {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  border: 1px solid #ffffff;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.checkbox.checked {
+  background-color: #ffffff;
+}

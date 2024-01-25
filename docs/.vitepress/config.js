@@ -1,27 +1,25 @@
 export default {
   title: "Docs HQ",
   description: "Explore documentation, style guide, and design patterns.",
+  head: [
+    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap' }],
+    ['script', { src: '/script.js' }],
+  ],
   themeConfig: {
     logo: "/star1.svg",
     siteTitle: "Docs HQ",
     nav: [
       { text: "Getting Started", link: "/about" },
       { text: "Contact", link: "/contact" },
-      // { text: "Guide", link: "/guide/index" },
-      // { text: "Design Patterns", link: "/design-patterns/introduction" },
       { 
         text: "Changelog",
         items: [
           { text: "v1.0.0", link: "/index" },
-          // { text: "v0.0.2", link: "/item-2" },
-          // { text: "v0.0.3", link: "/item-3" },
         ]
       },
     ],
     socialLinks: [
       { icon: "github", link: "https://github.com/chaselikethebank/sm-guide" },
-      // { icon: "twitter", link: "" },
-      // { icon: "discord", link: "", target: "_blank" },
     ],
     sidebar: [
       {
@@ -29,7 +27,6 @@ export default {
         collapsible: true,
         items: [
           { text: "Introduction", link: "/about" },
-          // { text: "Step-2", link: "/step-2" },
         ],
       },
       {
@@ -37,27 +34,38 @@ export default {
         collapsible: false,
         items: [
           { text: "Style Start", link: "/style-guide/start-here" },
-          { text: "Typography", link: "/style-guide/typography" },
           
           { text: "Color Palette", link: "/style-guide/color" },
+          { text: "Typography", link: "/style-guide/typography" },
+
           { text: "Usage", link: "/style-guide/usage" },
 
         ],
       },
       {
-        text: "Design Patterns",
+        text: "Posting Checklist",
         collapsible: true,
         items: [
-          { text: "First thing about Design", link: "/design-patterns/introduction" },
-          { text: "Recognizing Patterns", link: "/design-patterns/agency" },
+          
+          { text: "Instagram", link: "/posting/instagram-checklist" },
         ],
       },
+      
       {
         text: "Ministries",
         collapsible: true,
         items: [
           { text: "NextGen", link: "/ministries/nextgen" },
           
+        ],
+      },
+      
+      {
+        text: "Design Patterns",
+        collapsible: true,
+        items: [
+          { text: "First thing about Design", link: "/design-patterns/introduction" },
+          { text: "Recognizing Patterns", link: "/design-patterns/agency" },
         ],
       },
 
