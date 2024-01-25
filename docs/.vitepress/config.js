@@ -40,6 +40,8 @@ export default {
           { text: "Typography", link: "/style-guide/typography" },
           
           { text: "Color Palette", link: "/style-guide/color" },
+          { text: "Usage", link: "/style-guide/usage" },
+
         ],
       },
       {
