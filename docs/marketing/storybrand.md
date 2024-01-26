@@ -8,7 +8,7 @@
 “This is exactly what my customer is inspired/motivated by, but haven’t acted on yet?”
 :::
 
-## Guide Positioning
+## Guided Positioning
 - Position yourself, product, or service as the guide through the hero's (customer's) journey
 
 ::: tip 
