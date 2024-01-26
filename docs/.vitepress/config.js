@@ -30,6 +30,15 @@ export default {
         ],
       },
       {
+        text: "Marketing Frameworks",
+        collapsible: true,
+        items: [
+          { text: "What is a marketing Framework?", link: "/marketing/start" },
+          { text: "StoryBrand", link: "/marketing/storybrand" },
+
+        ],
+      },
+      {
         text: "Style Guide",
         collapsible: false,
         items: [
