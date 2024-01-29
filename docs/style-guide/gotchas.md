@@ -26,5 +26,5 @@ This also turns all element selectors that traditionally would just be "h1" into
 Is this a good way to solve this problem? <br>
 Should it be implemented all of the time? Some of the time? 
 <br><div></div>
-[Share your feedback](../../contact)
+[Share your feedback](./../contact.md)
 :::
