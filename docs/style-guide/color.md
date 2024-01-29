@@ -1,74 +1,156 @@
+## Global Colors
 
-# Color Palette 
+### Primary Brand
 
-## Primary Brand 
-<div style="width: 100px; height: 100px; border-radius: 100px; background-color: #850129;"></div>
+<div style="width: 100px; height: 100px; border: solid black 2px ; border-radius: 100px; background-color: #850129;"></div>
 
 - Hex: `#850129`
 - RGB: `133, 1, 41`
 
-## Primary Background
+```css
+_primary
+
+```
+
+### Text Muted
+
+
+<div style="width: 100px; height: 100px; ; border: solid black 2px ;border-radius: 100px; background-color: #6e6159;"></div>
+
+- Hex: `#6e6159`
+- RGB: `110, 97, 89`
+
+```css
+_text-muted
+
+```
+
+## Grayscale
+
+### Pure White
+
+<div style="width: 100px; height: 100px; border: solid black 2px ;border-radius: 100px; background-color: #ffffff;"></div>
 
 - Hex: `#ffffff`
 - RGB: `255, 255, 255`
-<div style="width: 100px; height: 100px; border-radius: 100px; background-color: #ffffff;"></div>
 
+```css
+_white
 
-## Alternate Background
+```
 
-<div style="width: 100px; height: 100px; ; border-radius: 100px; background-color: #f0efee;"></div>
+### Site White
+
+<div style="width: 100px; height: 100px; border: solid black 2px ;border-radius: 100px; background-color: #fcfcfc;"></div>
+
+- Hex: `#fcfcfcfc`
+- RGB: `252, 252, 252`
+
+```css
+_site-white
+
+```
+
+### Light Gray
+
+<div style="width: 100px; height: 100px; ; border: solid black 2px ;border-radius: 100px; background-color: #f0efee;"></div>
 
 - Hex: `#f0efee`
 - RGB: `240, 239, 238`
 
+```css
+_light-gray
 
-## Primary Text
+```
+
+### Typography Black
+
 - Hex: `#333333`
 - RGB: `51, 51, 51`
-<div style="width: 100px; height: 100px; ; border-radius: 100px; background-color: #333333;"></div>
+<div style="width: 100px; height: 100px; ; border: solid black 2px ;border-radius: 100px; background-color: #333333;"></div>
 
-#6e6159
+```css
+_type-black
+```
 
-## Alternative Text
-- Hex: `#6e6159`
-- RGB: `110, 97, 89`
-<div style="width: 100px; height: 100px; ; border-radius: 100px; background-color: #6e6159;"></div>
+### Site Black
+
+- Hex: `#181716`
+- RGB: `24, 24, 22`
+<div style="width: 100px; height: 100px; ; border: solid black 2px ;border-radius: 100px; background-color: #181716;"></div>
+
+```css
+_site-black
+```
 
 
-## GROW - G 
-<div style="width: 100px; height: 100px; ; border-radius: 100px; background-color: #504aa1;"></div>
+
+## G.R.O.W.
+
+### G.R.O.W. - G
+
+<div style="width: 100px; height: 100px; ; border: solid black 2px ;border-radius: 100px; background-color: #504aa1;"></div>
 
 - Hex: `#504aa1`
 - RGB: `(80, 74, 161)`
 
-## GROW - R 
-<div style="width: 100px; height: 100px; ; border-radius: 100px; background-color: #ed3563;"></div>
+```css
+_grow-g
+```
+
+### G.R.O.W. - R
+
+<div style="width: 100px; height: 100px; ; border: solid black 2px ;border-radius: 100px; background-color: #ed3563;"></div>
 
 - Hex: `#ed3563`
 - RGB: `237, 53, 99`
 
-## GROW - 0 
-<div style="width: 100px; height: 100px; ; border-radius: 100px; background-color: #60c3a6;"></div>
+```css
+_grow-r
+```
+
+### G.R.O.W. - 0
+
+<div style="width: 100px; height: 100px; ;border: solid black 2px ; border-radius: 100px; background-color: #60c3a6;"></div>
 
 - Hex: `#60c3a6`
 - RGB: `237, 53, 99`
 
-## GROW - W 
-<div style="width: 100px; height: 100px; ; border-radius: 100px; background-color: #fcca09;"></div>
+```css
+_grow-o
+```
+
+### G.R.O.W. - W
+
+<div style="width: 100px; height: 100px; ;border: solid black 2px ; border-radius: 100px; background-color: #fcca09;"></div>
 
 - Hex: `#fcca09`
 - RGB: `252, 202, 9`
 
-## Stewardship Primary
-<div style="width: 100px; height: 100px; ; border-radius: 100px; background-color: #324664;"></div>
+```css
+_grow-w
+```
+
+## Stewardship
+
+### Indigo dye
+
+<div style="width: 100px; height: 100px; ;border: solid black 2px ; border-radius: 100px; background-color: #324664;"></div>
 
 - Hex: `#324664`
 - RGB: `50, 70, 100`
 
-## Stewardship Secondary
-<div style="width: 100px; height: 100px; ; border-radius: 100px; background-color: #aea1ca;"></div>
+```css
+_indigo-dye
+```
+
+### Wisteria
+
+<div style="width: 100px; height: 100px; ;border: solid black 2px ; border-radius: 100px; background-color: #aea1ca;"></div>
 
 - Hex: `#aea1ca`
 - RGB: `174, 161, 202`
 
-
+```css
+_wisteria
+```
