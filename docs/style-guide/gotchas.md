@@ -1,15 +1,16 @@
 ## Gotchas
 
-Before we jump in, take note of these! 
+Before we jump in, take note of these potential "Gotcha"s! 
 
-::: tip 
+## leading underscore
 
-### All of the CSS classes begin with an "_" to differentiate them immediately from any potential name collisions in the corresponding Bootstrap 3.4.1 library.
-<br><div></div>
+::: warning Take Note 
 
-This also turns all element selectors that traditionally would just be "h1" into class names: "._h1" in your css file. 
+**All of the CSS classes begin with an "_" to immediately differentiate them from any potential name collisions in the code base from any of the corresponding Bootstrap 3.4.1 library class names.**
+
+
 :::
-## leading _ in class name 
+This also turns all element selectors that traditionally would just be "h1" into **_class names_** in your code base. Refer to the h1 example below. 
 
 ```css 
 
@@ -20,11 +21,14 @@ This also turns all element selectors that traditionally would just be "h1" into
   color: inherit;
 }
 ```
+You can still use the traditional element selectors like \<h1\> or \<p\> to fall back on the original Bootstrap 3.4.1 styling. 
 
-::: info 
+::: warning Question 
 
 Is this a good way to solve this problem? <br>
 Should it be implemented all of the time? Some of the time? 
 <br><div></div>
 [Share your feedback](./../contact.md)
 :::
+
+

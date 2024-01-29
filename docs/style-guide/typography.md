@@ -5,7 +5,7 @@
 Use **Montserrat** for all headlines.
 
 
-:::tip
+:::info Montserrat
 <div style="font-family: Montserrat; font-weight: 700; padding: 10px; border-radius: 5px; line-height: 2; font-size: 1.3rem">
   ABCDEFGHIJKLMNOPQRSTUVWXYZ
   <br>
@@ -25,8 +25,8 @@ Use **Montserrat** for all headlines.
 ## Paragraphs
 
 Use **Open Sans** for all body text.
-
-:::tip
+ 
+:::info Open Sans
 
 <div style="font-family: Open Sans; font-weight: 400; line-height: 2; padding: 10px; border-radius: 5px; font-size: 1.3rem">
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
@@ -49,7 +49,7 @@ abcdefghijklmnopqrstuvwxyz
 
 Use **Roboto** for all utility tasks: Labels, captions, credits, categories.
 
-:::tip
+:::info Roboto
 <div style="font-family: Roboto; font-weight: 400; line-height: 2; padding: 10px; border-radius: 5px; font-size: 1.3rem">
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 <br>

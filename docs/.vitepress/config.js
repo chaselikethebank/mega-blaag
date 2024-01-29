@@ -1,4 +1,6 @@
-export default {
+import { defineConfig } from 'vite';
+
+export default defineConfig({
   title: "Docs HQ",
   description: "Explore documentation, style guide, and design patterns.",
   head: [
@@ -7,6 +9,13 @@ export default {
       {
         rel: "stylesheet",
         href: "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap",
+      },
+    ],
+    [
+      "link",
+      {
+        rel: "stylesheet",
+        href: "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css",
       },
     ],
     ["script", { src: "/script.js" }],
@@ -45,10 +54,9 @@ export default {
         items: [
           { text: "Style Start", link: "/style-guide/style-start" },
           { text: "Gotchas", link: "/style-guide/gotchas" },
-
           { text: "Palette", link: "/style-guide/color" },
           { text: "Typography", link: "/style-guide/typography" },
-
+          { text: "Icons", link: "/style-guide/icons" },
         ],
       },
       {
@@ -56,13 +64,11 @@ export default {
         collapsible: true,
         items: [{ text: "Instagram", link: "/posting/instagram-checklist" }],
       },
-
       {
         text: "Ministries",
         collapsible: true,
         items: [{ text: "NextGen", link: "/ministries/nextgen" }],
       },
-
       {
         text: "Design Patterns",
         collapsible: true,
@@ -80,4 +86,4 @@ export default {
       copyright: "Copyright © 2024-present cd.t",
     },
   },
-};
+});

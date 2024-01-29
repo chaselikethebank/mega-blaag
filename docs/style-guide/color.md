@@ -4,13 +4,28 @@
 
 <div style="width: 100px; height: 100px; border: solid black 2px ; border-radius: 100px; background-color: #850129;"></div>
 
-- Hex: `#850129`
-- RGB: `133, 1, 41`
+:::info Name
+Burgundy
+:::
+:::info Hex 
+```css
+#850129
+```
+:::
 
+:::info RGB
+```css
+rgb(133, 1, 41);
+
+```
+:::
+
+:::info CSS Class Name
 ```css
 _primary
 
 ```
+:::
 
 ### Text Muted
 
@@ -19,6 +34,10 @@ _primary
 
 - Hex: `#6e6159`
 - RGB: `110, 97, 89`
+
+```css
+#6e6159
+```
 
 ```css
 _text-muted
@@ -35,6 +54,10 @@ _text-muted
 - RGB: `255, 255, 255`
 
 ```css
+#ffffff
+```
+
+```css
 _white
 
 ```
@@ -47,8 +70,10 @@ _white
 - RGB: `252, 252, 252`
 
 ```css
+#fcfcfcfc
+```
+```css
 _site-white
-
 ```
 
 ### Light Gray
@@ -57,6 +82,10 @@ _site-white
 
 - Hex: `#f0efee`
 - RGB: `240, 239, 238`
+
+```css
+##f0efee
+```
 
 ```css
 _light-gray
@@ -70,6 +99,9 @@ _light-gray
 <div style="width: 100px; height: 100px; ; border: solid black 2px ;border-radius: 100px; background-color: #333333;"></div>
 
 ```css
+#333333
+```
+```css
 _type-black
 ```
 
@@ -79,6 +111,9 @@ _type-black
 - RGB: `24, 24, 22`
 <div style="width: 100px; height: 100px; ; border: solid black 2px ;border-radius: 100px; background-color: #181716;"></div>
 
+```css
+#181716
+```
 ```css
 _site-black
 ```
@@ -93,7 +128,9 @@ _site-black
 
 - Hex: `#504aa1`
 - RGB: `(80, 74, 161)`
-
+```css
+#504aa1
+```
 ```css
 _grow-g
 ```
@@ -104,7 +141,9 @@ _grow-g
 
 - Hex: `#ed3563`
 - RGB: `237, 53, 99`
-
+```css
+#ed3563
+```
 ```css
 _grow-r
 ```
@@ -115,7 +154,9 @@ _grow-r
 
 - Hex: `#60c3a6`
 - RGB: `237, 53, 99`
-
+```css
+#60c3a6
+```
 ```css
 _grow-o
 ```
@@ -126,7 +167,9 @@ _grow-o
 
 - Hex: `#fcca09`
 - RGB: `252, 202, 9`
-
+```css
+#fcca09
+```
 ```css
 _grow-w
 ```
@@ -139,7 +182,9 @@ _grow-w
 
 - Hex: `#324664`
 - RGB: `50, 70, 100`
-
+```css
+ #324664
+```
 ```css
 _indigo-dye
 ```
@@ -150,7 +195,10 @@ _indigo-dye
 
 - Hex: `#aea1ca`
 - RGB: `174, 161, 202`
-
+```css
+ #aea1ca
+```
 ```css
 _wisteria
 ```
+
