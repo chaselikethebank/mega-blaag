@@ -1,19 +1,39 @@
-# A Starting Approach
-Managing all elements of a brand's media is challenging. Coordinating a substantial campaign and adhering to a set strategy can feel overwhelming. What is impossible is to do the strategic work of system build and craft work of the results of those systems all at the same time. 
+# the work vs _The Work_
+Managing all elements of a brand's media is challenging. Coordinating a  campaign and executing on a strategy can feel overwhelming but it is possible. What is impossible is to do the strategic work of system build as well as the craft work of the results of those systems all at the same time. 
+
+**You cannot build an airplane mid-flight.**
 
 
-## Pain Point
-Designing a landing page vs building a design system for a multy-facited organization. 
+## Pain Point - Frontend 
 
-<br>OR<br>
+:::warning need an H3 here
+Designing a landing page with a 4 column grid vs building a design system of 4 column grid to be used for a multy-facited organization.
+::: 
 
-Posting a good story on IG vs 
-## StoryBrand - Return Home 
-- Close the Hero loop at the end of your campaign.
-- When you drive your audience through their journey, the return to home should feel like a **_superbowl touchdown dance_**. Give them that! 
+```css
+ .grid-4 {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(calc(25% - 1rem), 1fr));
+}
 
-::: tip Affirmative statement to know you are on the right track:
-“This successfully celebrates my audience and their engagement with me in the journey."
+@media (max-width: 992px) {
+    .grid-4{
+        grid-template-columns: repeat(auto-fit, minmax(calc(50% - 1rem), 1fr));
+    }
+}
+
+@media (max-width: 576px) {
+    .grid-4{
+        grid-template-columns: repeat(auto-fit, minmax(calc(50% - 1rem), 1fr));
+    }
+}
+```
+
+## Pain Point - SM
+:::warning need an H3 here
+
+Posting a _good story_ on IG vs celebrating the end of a campaign with a CTA to the top of the next funnel!
 :::
 
 :::info Deep Dive
@@ -22,9 +42,11 @@ Posting a good story on IG vs
 [*Writing 101: What Is the Hero’s Journey? 2 Hero’s Journey Examples in Film*](https://www.masterclass.com/articles/writing-101-what-is-the-heros-journey) via MasterClass | Articles
 :::
 
-<br>OR<br>
+## Pain Point - Design
 
-The logo is a maroon color vs the logo is: 
+:::warning need an H3 here
+The logo should be like a maroon color vs the logo is a predefined HEX code/RGB and has been coded with a specific class name. 
+:::
 :::info Primary Brand - Burgundy
 <br>
 <div style="width: 100px; height: 100px; border: solid black 2px ; border-radius: 100px; background-color: #850129;"></div>

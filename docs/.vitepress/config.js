@@ -42,7 +42,7 @@ export default defineConfig({
         items: [
           { text: "The Internet is Hard", link: "/theInternet" },
           { text: "State/Proposal/Expectaions", link: "/about" },
-          { text: "The work vs the work", link: "/ptar" }
+          { text: "the work vs The Work", link: "/ptar" }
 
 
         ],
