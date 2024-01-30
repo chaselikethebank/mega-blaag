@@ -6,13 +6,14 @@ Use these aphorisms to quickly and easily remember the executable techniques tha
 ## Do's 
 | Aphorism                                         | Explanation                                                     |
 |---------------------------------------------------|-----------------------------------------------------------------|
-| 📸  **Hollywooding**                      | By elevating others you qualify your voice as one of authority. Watch two actors talk about how good each other are. |
-| 💰 **Educators are Overpaid**                             | Sharing knowledge is sharing value. Your audience will reimburse you with thier attention.|
+| 💰 **Educators are Overpaid**                             | Sharing knowledge is sharing value. Your audience will reimburse you with their attention.|
+| 🍰 **_My_ Birthday Party** | Converge different circles/groups. Launching a new book about... "Age"? Host a birthday party for everyone you know all at the same time. |
+| 🎥  **Hollywooding**                      | By elevating others you qualify your voice as one of authority. Watch two actors talk about how wonderful each other are. In a loop. That is how a star is born.|
 | 🗣️ **Clarity is King**                             | Distill the message to the essentials. ...then again. |
 | ⏳ **FOMO**                      | Drive urgency and demand by leveraging scarcity. |
 | 🔨 **The Narrative Loop**                        | Assume audiences are new. Repeat stories intentionally; forge lasting impressions. |
-| 🏆 | |
-| 📣 **Call to Action** | Every post, every page, every touch point should engage the audience to do something. |
+| 📣 **Call to Action** | Every post, every page, every touch point should engage the audience to do something right now. |
+| 🖼️ **Framing**    | "We" over "You" and "I" over "We". When someone reads copy written in the first person, it frames the call to action in the most powerful way possible; "I am signing up today because that's my church." **Tread lightly as this is very difficult to do authentically.** |
 
 ## Don'ts
 
