@@ -1,13 +1,34 @@
-# Marketing is hard
+# Media is hard
 
-Media is hard. Organizing the work for a large campaign, and sticking to a predetermined approach can be overwhelming. Having a template or framework to help you take one step at a time is an enourmous debt relief. Becuase doing the work of media and marketing strategy and doing the work of posting content simply cannot be done at the same time with much success. 
+## Pain Point
+Managing all elements of a brand's media is challenging. Coordinating a substantial campaign and adhering to a set strategy can feel overwhelming and is in fact impossible to do both the strategic work and the posting work at the same time. 
 
-Let's explore various marketing and copywriting Frameworks together as strategies to enhance messaging, positioning, and overall effectiveness in reaching product-market fit. Plus, by understanding and applying different frameworks and strategies we can significantly impact how the brand communicates its message and engages with customers and monitors the results.
+## Task
+Seperate the media strategies from the media dissimenation process. Define the media strategies.  
+
+## Action
+Implementing a structured template or framework for each step offers considerable relief from this burden.
+
+
+
+
+
+## Result
+
+Product-Market fit
+
+:::warning Tracking 
+
+If we can answer these questions we might have a chance. What direction we are facing? What agendas we are pursueing? What is the ROAS? What about this approach is/isn't working? 
+:::
+
+<br>
 
 :::tip Media is hard  
-Media and marketing is an ever evolving discipline. Our peers do an incredible job in recognizing when an edge has been generated, reverse-engineering said advantage, and implemnting in themselves. 
+Media and marketing is an ever evolving discipline. Our peers do an incredible job in recognizing when an edge has been generated, reverse-engineering said advantage, and implemnting it for themselves erroding our edge. Let's stay on  the offense and continue to aggrigate gains even if on the margins.  
 
 Let's stay agile! 
 
 [Any ideas?](./../contact.md)
 :::
+

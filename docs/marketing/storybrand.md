@@ -19,14 +19,16 @@ Listed are some powerful takeaways that you can use when generating compellying 
 “My offering ignites and guides my customer through the next step of their journey.”
 :::
 
-## Clarity is King
-- If you confuse, you lose!
-- The clarity of the message should be like an ice pick and punching through all the noise.
+## Return Home
+- Close the Hero loop at the end of your campaign.
+- When you drive your audience through their journey the return to home should feel like a **_super bowl touch down dance_**. Give them that! 
 
 ::: tip Affirmative statement to know you are on the right track:
-“With no previous context and this single post, I have fully engaged my customer 1:1, they understand what low-friction action to take and are encouraged to do so."
+“This successfully celebrates my audience and their engagement with me in the journey."
 :::
 
 :::info Deep Dive
 [*Building a StoryBrand: Clarify Your Message So Customers Will Listen*](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/0718033329) by Donald Miller.
+
+[*Writing 101: What Is the Hero’s Journey? 2 Hero’s Journey Examples in Film*](https://www.masterclass.com/articles/writing-101-what-is-the-heros-journey) via MasterClass | Articles
 :::

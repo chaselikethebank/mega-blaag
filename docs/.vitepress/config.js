@@ -47,7 +47,7 @@ export default defineConfig({
           { text: "Media is hard", link: "/marketing/start" },
 
           { text: "Aphorisms", link: "/marketing/aphorisms" },
-          { text: "Frameworks", link: "/marketing/frameworks" },
+          { text: "Frameworks", link: "/marketing/frameworks-start" },
 
           { text: "StoryBrand", link: "/marketing/storybrand" },
           { text: "MomentMomentum", link: "/marketing/momentMomentum" },
