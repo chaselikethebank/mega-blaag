@@ -3,14 +3,27 @@
 
 Use these aphorisms to quickly and easily remember the executable techniques that work. 
 
+## Do's 
 | Aphorism                                         | Explanation                                                     |
 |---------------------------------------------------|-----------------------------------------------------------------|
-| 🌱    **Plant the Seed**                          | Build anticipation by gradually revealing hints about upcoming campaigns or products. |
-| 📸  **Best Birthday Party**                      | How to prop up the thing you are excited about. Make it about someone else. Throw a party, and for someone's birthday. |
-| 🗣️ **Speak Directly**                             | Enhance engagement by personalizing communications and addressing your audience directly. |
-| ⏳ **Create the FOMO Factor**                      | Drive urgency and demand by leveraging scarcity or limited-time offers to create a Fear of Missing Out (FOMO) among your audience. |
-| 🖌️ **Paint Pictures with Words**                  | Harness the power of storytelling to evoke emotions and create vivid imagery that resonates with your audience. |
-| 📣 **Spread the Word**                             | Encourage social sharing and amplify your message by motivating your audience to share your content across various platforms. |
+| 📸  **Hollywooding**                      | By elevating others you qualify your voice as one of authority. Watch two actors talk about how good each other are. |
+| 💰 **Educators are Overpaid**                             | Sharing knowledge is sharing value. Your audience will reimburse you with thier attention.|
+| 🗣️ **Clarity is King**                             | Distill the message to the essentials. ...then again. |
+| ⏳ **FOMO**                      | Drive urgency and demand by leveraging scarcity. |
+| 🔨 **The Narrative Loop**                        | Assume audiences are new. Repeat stories intentionally; forge lasting impressions. |
+| 🏆 | |
+| 📣 **Call to Action** | Every post, every page, every touch point should engage the audience to do something. |
+
+## Don'ts
+
+| Aphorism                      | Explanation                                                                                       |
+|-------------------------------|---------------------------------------------------------------------------------------------------|
+| 🖌️ **Negate the Frame**      | Refrain from emphasizing undesirables. Articulate positive messaging and desired actions. For example, "You don't want to **MISS THIS EVENT**" puts the focus on what exactly? |
+| 📅 **Say Goodbye** | In sales, you never end a meeting without booking the next meeting. Refrain from saying, "Goodbye". Bottom of the page => CTA. End of campaign => Top of funnel |
+
+
+
+<!-- 
+| 🌱    **Plant the Seed**                          | Aways forecast the next step no matter how subtely. |
 | ✂️ **Measure Twice, Cut Once**                    | Test and refine your campaigns iteratively to minimize errors and maximize effectiveness. |
-| 🏆 **The Narrative Loop**                        | Assume audiences are new. Repeat stories intentionally; forge lasting impressions. |
-| 🔍 **Less is More**                               | Embrace simplicity in design and messaging to deliver clear and impactful communication to your audience. |
+ -->
