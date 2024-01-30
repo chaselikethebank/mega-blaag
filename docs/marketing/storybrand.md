@@ -21,7 +21,7 @@ Listed are some powerful takeaways that you can use when generating compellying 
 
 ## Return Home
 - Close the Hero loop at the end of your campaign.
-- When you drive your audience through their journey the return to home should feel like a **_super bowl touch down dance_**. Give them that! 
+- When you drive your audience through their journey the return to home should feel like a **_superbowl touchdown dance_**. Give them that! 
 
 ::: tip Affirmative statement to know you are on the right track:
 “This successfully celebrates my audience and their engagement with me in the journey."

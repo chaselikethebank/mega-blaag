@@ -24,7 +24,7 @@ export default defineConfig({
     logo: "/star1.svg",
     siteTitle: "Docs HQ",
     nav: [
-      { text: "Getting Started", link: "/about" },
+      { text: "Getting Started", link: "/theInternet" },
       { text: "Contact", link: "/contact" },
       {
         text: "Changelog",
@@ -38,13 +38,21 @@ export default defineConfig({
       {
         text: "Getting Started",
         collapsible: true,
-        items: [{ text: "Introduction", link: "/about" }],
+
+        items: [
+          { text: "The Internet is Hard", link: "/theInternet" },
+          { text: "State/Proposal/Expectaions", link: "/about" },
+          { text: "The work vs the work", link: "/ptar" }
+
+
+        ],
+
       },
       {
         text: "Marketing Guide",
         collapsible: true,
         items: [
-          { text: "Media is hard", link: "/marketing/start" },
+          { text: "Approach", link: "/marketing/start" },
 
           { text: "Aphorisms", link: "/marketing/aphorisms" },
           { text: "Frameworks", link: "/marketing/frameworks-start" },
