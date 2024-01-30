@@ -1,51 +1,71 @@
 ## Global Colors
 
-### Primary Brand
+<!-- example  -->
 
+<!-- end of example  -->
+::: warning Question! 
+
+Below are a few different ways to display the information about color? <br>
+What way makes the most sense? Design 1, 2, 3, or something totally different?
+<br><div></div>
+[Share your feedback](./../contact.md)
+:::
+
+:::warning Design Audition #1
+:::
+
+:::info Primary Brand - Burgundy
+<br>
 <div style="width: 100px; height: 100px; border: solid black 2px ; border-radius: 100px; background-color: #850129;"></div>
 
-:::info Name
-Burgundy
-:::
-:::info Hex 
+Hex
 ```css
 #850129
 ```
-:::
 
-:::info RGB
+RGB
 ```css
 rgb(133, 1, 41);
-
 ```
-:::
 
-:::info CSS Class Name
-```css
+HTML/CSS Class Name
+```html
 _primary
-
 ```
 :::
 
-### Text Muted
+:::warning Design Audition #2
+:::
+
+
+
+### Text Muted - Umber
+
+
+<br>
 
 
 <div style="width: 100px; height: 100px; ; border: solid black 2px ;border-radius: 100px; background-color: #6e6159;"></div>
+<br>
 
-- Hex: `#6e6159`
-- RGB: `110, 97, 89`
 
-```css
+`HEX`
+```css 
 #6e6159
 ```
-
+`RGB`
 ```css
+rgb(110, 97, 89)
+```
+`HTML/CSS Class Name`
+```HTML
 _text-muted
 
 ```
 
 ## Grayscale
-
+:::warning Design Audition #3
+:::
 ### Pure White
 
 <div style="width: 100px; height: 100px; border: solid black 2px ;border-radius: 100px; background-color: #ffffff;"></div>
