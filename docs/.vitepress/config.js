@@ -41,11 +41,17 @@ export default defineConfig({
         items: [{ text: "Introduction", link: "/about" }],
       },
       {
-        text: "Marketing Frameworks",
+        text: "Marketing Guide",
         collapsible: true,
         items: [
-          { text: "What is a marketing Framework?", link: "/marketing/start" },
+          { text: "Media is hard", link: "/marketing/start" },
+
+          { text: "Aphorisms", link: "/marketing/aphorisms" },
+          { text: "Frameworks", link: "/marketing/frameworks" },
+
           { text: "StoryBrand", link: "/marketing/storybrand" },
+          { text: "MomentMomentum", link: "/marketing/momentMomentum" },
+
         ],
       },
       {
