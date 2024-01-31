@@ -4,7 +4,7 @@ Yes, The Internet is Hard. The Internet is the only place we can create somethin
 
 <br>
 
-Ehhhh... but I really like this cool new font! 😂
+but still ...Ehhhh... I really like this cool new font! Let's put it on the internet! 😂
 
 :::info Montserrat
 <div style="font-family: Montserrat; font-weight: 700; padding: 10px; border-radius: 5px; line-height: 2; font-size: 1.3rem">
