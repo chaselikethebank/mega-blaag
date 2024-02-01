@@ -218,7 +218,7 @@ _grow-g
 ```
 
 :::tip Use Case
-The primary color for all things G.R.O.W - G
+The primary color for G.R.O.W - G
 :::
 
 :::
@@ -242,7 +242,7 @@ HTML/CSS Class Name
 _grow-r
 ```
 :::tip Use Case
-The primary color for all things G.R.O.W - R
+The primary color for G.R.O.W - R
 :::
 
 :::
@@ -266,7 +266,7 @@ HTML/CSS Class Name
 _grow-o
 ```
 :::tip Use Case
-The primary color for all things G.R.O.W - O
+The primary color for G.R.O.W - O
 :::
 
 :::
@@ -290,7 +290,7 @@ _grow-w
 ```
 
 :::tip Use Case
-The primary color for all things G.R.O.W - W
+The primary color for G.R.O.W - W
 :::
 :::
 
