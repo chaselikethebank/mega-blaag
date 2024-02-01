@@ -12,7 +12,7 @@ Niche down => niche down => niche down => become the "only"
 
 ## Choices = Placement
 
-Every choice places the brand into a kind of category. Each category has associative baggage. This is neither good or bad. It just is. 
+Every choice places the brand into a kind of category. Each category has associative baggage. This is neither good or bad. It just is we can use to either associate with or go against as a function of niching down. These choices also compound in one way or the other. Clarity is king!
 
 :::info Case Study - Serif 
 
@@ -69,13 +69,17 @@ What if a Forbes.com competitor started using Sans Serif to negate the framing o
 
 Result: Less Formality, unbaised and neutral, Modern, Readable
 
-If the brands strategic offering is to deliver financial news w in an unbaised, modern, casual way, this might be a winning strategy. 
+If the brand's strategic offering is to deliver financial news w in an unbaised, modern, casual way, this might be a winning strategy. 
 
 What if instead of a Sans Serif, a comically font was use. Niche of one might be achieved but the friction might be too high. Image a comic sans on Forbes.com... it breaks. 
 
 ## Next Steps 
 
-What is the brands strategic offering? 
-How can we compound our design choices and niche down by being the "only" while not creating too much friction and negating the excpected pardaigm and framing? 
+What is our brand's strategic offering? <br> 
+In what ways are we hoping to differentiate ourselves from others? <br>
+In what ways are we hoping to align with others? <br>
+<br>
+How do these brand desicions corelate to our design decisions? 
+
 
 The internet is hard. 
