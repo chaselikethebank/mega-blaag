@@ -75,7 +75,9 @@ export default defineConfig({
       {
         text: "Ministries",
         collapsible: true,
-        items: [{ text: "NextGen", link: "/ministries/nextgen" }],
+        items: [{ text: "NextGen", link: "/ministries/nextgen" },
+        { text: "Espanol", link: "/ministries/espanol" }],
+   
       },
       {
         text: "Design Patterns",

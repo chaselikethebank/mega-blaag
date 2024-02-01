@@ -1,5 +1,5 @@
 # the work vs _The Work_
-Managing all elements of a brand's media is challenging. Coordinating a  campaign and executing on a strategy can feel overwhelming but it is possible. What is impossible is to do the strategic work of system build as well as the craft work of the results of those systems all at the same time. 
+Managing all elements of a brand's media is challenging. Coordinating a  campaign and executing on a strategy can feel overwhelming but it is possible. What is impossible is to do the strategic work of system building as well as the craft work of the results of those systems all at the same time. 
 
 **You cannot build an airplane mid-flight.**
 
