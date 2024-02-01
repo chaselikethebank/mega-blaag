@@ -22,7 +22,13 @@ rgb(133, 1, 41);
 HTML/CSS Class Name
 ```html
 _primary
+
 ```
+
+:::tip Use Case 
+Anywhere the central brand is communicated.
+
+:::
 :::
 
 
@@ -50,6 +56,10 @@ HTML/CSS Class Name
 _text-muted
 
 ```
+
+:::tip Use Case 
+\<p> tags
+:::
 :::
 
 ## Grayscale
@@ -73,6 +83,11 @@ HTML/CSS Class Name
 _white
 ```
 
+
+:::tip Use Case
+ 
+:::
+
 :::
 
 :::info Site White
@@ -93,6 +108,10 @@ HTML/CSS Class Name
 ```html
 _site-white
 ```
+
+:::tip Use Case
+Background of the website
+:::
  
 :::
 
@@ -115,6 +134,10 @@ HTML/CSS Class Name
 _light-gray
 ```
 
+:::tip Use Case
+Background of cards on the website
+:::
+ 
  
 :::
 
@@ -136,9 +159,15 @@ HTML/CSS Class Name
 ```html
 _type-black
 ```
+
+
+:::tip Use Case
+\<h1,2,3,4,5,6> tags
+:::
 :::
 
 
+ 
 
 :::info Site Black
 <br>
@@ -161,6 +190,9 @@ HTML/CSS Class Name
 _site-black
 ```
 
+:::tip Use Case
+Background of the website (when functional black is desired)
+:::
 :::
 
 
@@ -184,6 +216,11 @@ HTML/CSS Class Name
 ```html
 _grow-g
 ```
+
+:::tip Use Case
+The primary color for all things G.R.O.W - G
+:::
+
 :::
 
 :::info G.R.O.W. - R
@@ -204,6 +241,9 @@ HTML/CSS Class Name
 ```html
 _grow-r
 ```
+:::tip Use Case
+The primary color for all things G.R.O.W - R
+:::
 
 :::
 
@@ -225,6 +265,9 @@ HTML/CSS Class Name
 ```html
 _grow-o
 ```
+:::tip Use Case
+The primary color for all things G.R.O.W - O
+:::
 
 :::
 :::info G.R.O.W. - W
@@ -245,6 +288,10 @@ HTML/CSS Class Name
 ```html
 _grow-w
 ```
+
+:::tip Use Case
+The primary color for all things G.R.O.W - W
+:::
 :::
 
 ## Stewardship
@@ -268,7 +315,10 @@ HTML/CSS Class Name
 _indigo-dye
 ```
 
+:::tip Use Case
+The primary color for Stewardship 2024
 :::
+
 
 :::info Wisteria
 <br>
@@ -288,5 +338,10 @@ HTML/CSS Class Name
 ```html
 _wisteria
 ```
- 
+:::tip Use Case
+The secondary color for Stewardship 2024
+:::
+
+
+<!-- ::: -->
 
