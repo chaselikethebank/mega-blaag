@@ -4,7 +4,7 @@ Yes, The Internet is Hard. The Internet is the only place we can create somethin
 
 <br>
 
-## Section Title about how to stand out 
+
 
 Tim Ferriss approach: "A category of one" 
 

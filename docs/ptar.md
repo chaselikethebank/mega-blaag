@@ -89,6 +89,6 @@ Media and marketing is an ever evolving discipline. Our peers do an incredible j
 
 Let's stay agile! 
 
-[Any ideas?](./../contact.md)
+[Any ideas?](./contact.md)
 :::
 
