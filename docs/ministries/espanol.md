@@ -1,6 +1,7 @@
 # Spanish Translations
 
-Our glossary of Spanish terms and phrases to use in communications. If you have any questions, contact [Ailyn Guerra](aguerra@twmc.org).
+Our glossary of Spanish terms and phrases to use in communications. If you have any questions, contact [Ailyn Guerra](mailto:aguerra@twmc.org).
+
 
 ## The Woodlands Methodist en Español 
 
@@ -252,7 +253,7 @@ La comunión es una oportunidad para renovar nuestra relación con Jesucristo. E
 **Zip** Código Postal  
 **Phone** Teléfono
 
-To pledge online, visit [twmc.org/pledgemissions2024](twmc.org/pledgemissions2024)
+ [To pledge online, visit](https://www.thewoodlandsmethodist.org/pledgemissions2024)
 
 As God enables me, I will support the outreach of our church by giving to our missions ministry the amount indicated on this card during the period of January 1 through December 31, 2024
 
@@ -269,8 +270,8 @@ Por favor, haga referencia a "Misiones 2024" en todas las donaciones.
 
 **Want an easy way to fulfill your pledge?**  
 ¿Quiere una manera fácil de cumplir su compromiso?  
-Visit [twmc.org/recurringcontributions](twmc.org/recurringcontributions) to set up your recurring gift. Or complete the information below for in-house processing (processed on the fifth of each month)  
-Visite [twmc.org/recurringcontributions](twmc.org/recurringcontributions) para configurar su regalo recurrente. O complete la información a continuación para el procesamiento interno (procesado el cinco de cada mes)  
+Visit [twmc.org/recurringcontributions](http://www.twmc.org/recurringcontributions) to set up your recurring gift. Or complete the information below for in-house processing (processed on the fifth of each month)  
+Visite [twmc.org/recurringcontributions](http://www.twmc.org/recurringcontributions) para configurar su regalo recurrente. O complete la información a continuación para el procesamiento interno (procesado el cinco de cada mes)  
 
 **Bank draft** (attach voided check)  
 **Giro bancario** (adjuntar cheque anulado)  
