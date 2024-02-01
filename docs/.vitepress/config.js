@@ -41,25 +41,19 @@ export default defineConfig({
 
         items: [
           { text: "The Internet is Hard", link: "/theInternet" },
+          { text: "the work vs The Work", link: "/ptar" },
           { text: "State/Proposal/Expectaions", link: "/about" },
-          { text: "the work vs The Work", link: "/ptar" }
-
-
         ],
-
       },
       {
         text: "Marketing Guide",
         collapsible: true,
         items: [
           { text: "Approach", link: "/marketing/start" },
-
           { text: "Aphorisms", link: "/marketing/aphorisms" },
           { text: "Frameworks", link: "/marketing/frameworks-start" },
-
           { text: "StoryBrand", link: "/marketing/storybrand" },
           { text: "MomentMomentum", link: "/marketing/momentMomentum" },
-
         ],
       },
       {

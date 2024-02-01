@@ -3,16 +3,7 @@
 <!-- example  -->
 
 <!-- end of example  -->
-::: warning Question! 
 
-Below are a few different ways to display the information about color? <br>
-What way makes the most sense? Design 1, 2, 3, or something totally different?
-<br><div></div>
-[Share your feedback](./../contact.md)
-:::
-
-:::warning Design Audition #1
-:::
 
 :::info Primary Brand - Burgundy
 <br>
@@ -34,12 +25,9 @@ _primary
 ```
 :::
 
-:::warning Design Audition #2
-:::
 
 
-
-### Text Muted - Umber
+:::info Text Muted - Umber
 
 
 <br>
@@ -49,176 +37,256 @@ _primary
 <br>
 
 
-`HEX`
+HEX
 ```css 
 #6e6159
 ```
-`RGB`
+RGB
 ```css
 rgb(110, 97, 89)
 ```
-`HTML/CSS Class Name`
+HTML/CSS Class Name
 ```HTML
 _text-muted
 
 ```
+:::
 
 ## Grayscale
-:::warning Design Audition #3
-:::
-### Pure White
 
+:::info Pure White
+<br>
 <div style="width: 100px; height: 100px; border: solid black 2px ;border-radius: 100px; background-color: #ffffff;"></div>
 
-- Hex: `#ffffff`
-- RGB: `255, 255, 255`
-
+Hex
 ```css
 #ffffff
 ```
 
+RGB
 ```css
-_white
-
+rgb(255, 255, 255);
 ```
 
-### Site White
+HTML/CSS Class Name
+```html
+_white
+```
 
+:::
+
+:::info Site White
+<br>
 <div style="width: 100px; height: 100px; border: solid black 2px ;border-radius: 100px; background-color: #fcfcfc;"></div>
 
-- Hex: `#fcfcfcfc`
-- RGB: `252, 252, 252`
-
+Hex
 ```css
 #fcfcfcfc
 ```
+
+RGB
 ```css
+rgb(252, 252, 252);
+```
+
+HTML/CSS Class Name
+```html
 _site-white
 ```
+ 
+:::
 
-### Light Gray
-
+:::info Light Gray
+<br>
 <div style="width: 100px; height: 100px; ; border: solid black 2px ;border-radius: 100px; background-color: #f0efee;"></div>
 
-- Hex: `#f0efee`
-- RGB: `240, 239, 238`
-
+Hex
 ```css
-##f0efee
+#f0efee
 ```
 
+RGB
 ```css
+rgb(240, 239, 238);
+```
+
+HTML/CSS Class Name
+```html
 _light-gray
-
 ```
 
-### Typography Black
+ 
+:::
 
-- Hex: `#333333`
-- RGB: `51, 51, 51`
+:::info Typography Black
+<br>
 <div style="width: 100px; height: 100px; ; border: solid black 2px ;border-radius: 100px; background-color: #333333;"></div>
 
+Hex
 ```css
 #333333
 ```
+
+RGB
 ```css
-_type-black
+rgb(51, 51, 51);
 ```
 
-### Site Black
+HTML/CSS Class Name
+```html
+_type-black
+```
+:::
 
-- Hex: `#181716`
-- RGB: `24, 24, 22`
+
+
+:::info Site Black
+<br>
+
+
 <div style="width: 100px; height: 100px; ; border: solid black 2px ;border-radius: 100px; background-color: #181716;"></div>
 
+Hex
 ```css
 #181716
 ```
+
+RGB
 ```css
+rgb(24, 24, 22);
+```
+
+HTML/CSS Class Name
+```html
 _site-black
 ```
 
+:::
 
 
 ## G.R.O.W.
 
-### G.R.O.W. - G
-
+:::info G.R.O.W. - G
+<br>
 <div style="width: 100px; height: 100px; ; border: solid black 2px ;border-radius: 100px; background-color: #504aa1;"></div>
 
-- Hex: `#504aa1`
-- RGB: `(80, 74, 161)`
+Hex
 ```css
 #504aa1
 ```
+
+RGB
 ```css
-_grow-g
+rgb(80, 74, 161);
 ```
 
-### G.R.O.W. - R
+HTML/CSS Class Name
+```html
+_grow-g
+```
+:::
 
+:::info G.R.O.W. - R
+<br>
 <div style="width: 100px; height: 100px; ; border: solid black 2px ;border-radius: 100px; background-color: #ed3563;"></div>
 
-- Hex: `#ed3563`
-- RGB: `237, 53, 99`
+Hex
 ```css
 #ed3563
 ```
+
+RGB
 ```css
+rgb(237, 53, 99);
+```
+
+HTML/CSS Class Name
+```html
 _grow-r
 ```
 
-### G.R.O.W. - 0
+:::
 
+:::info G.R.O.W. - 0
+<br>
 <div style="width: 100px; height: 100px; ;border: solid black 2px ; border-radius: 100px; background-color: #60c3a6;"></div>
 
-- Hex: `#60c3a6`
-- RGB: `237, 53, 99`
+Hex
 ```css
 #60c3a6
 ```
+
+RGB
 ```css
+rgb(237, 53, 99);
+```
+
+HTML/CSS Class Name
+```html
 _grow-o
 ```
 
-### G.R.O.W. - W
-
+:::
+:::info G.R.O.W. - W
+<br>
 <div style="width: 100px; height: 100px; ;border: solid black 2px ; border-radius: 100px; background-color: #fcca09;"></div>
 
-- Hex: `#fcca09`
-- RGB: `252, 202, 9`
+Hex
 ```css
 #fcca09
 ```
+
+RGB
 ```css
+rgb(252, 202, 9);
+```
+
+HTML/CSS Class Name
+```html
 _grow-w
 ```
+:::
 
 ## Stewardship
 
-### Indigo dye
-
+:::info Indigo dye
+<br>
 <div style="width: 100px; height: 100px; ;border: solid black 2px ; border-radius: 100px; background-color: #324664;"></div>
 
-- Hex: `#324664`
-- RGB: `50, 70, 100`
+Hex
 ```css
- #324664
+#324664
 ```
+
+RGB
 ```css
+rgb(50, 70, 100);
+```
+
+HTML/CSS Class Name
+```html
 _indigo-dye
 ```
 
-### Wisteria
+:::
 
+:::info Wisteria
+<br>
 <div style="width: 100px; height: 100px; ;border: solid black 2px ; border-radius: 100px; background-color: #aea1ca;"></div>
 
-- Hex: `#aea1ca`
-- RGB: `174, 161, 202`
+Hex
 ```css
- #aea1ca
+#aea1ca
 ```
+
+RGB
 ```css
+rgb(174, 161, 202);
+```
+
+HTML/CSS Class Name
+```html
 _wisteria
 ```
+ 
 
