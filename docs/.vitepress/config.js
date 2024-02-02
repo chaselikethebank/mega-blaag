@@ -40,20 +40,21 @@ export default defineConfig({
         collapsible: true,
 
         items: [
-          { text: "The Internet is Hard", link: "/theInternet" },
-          { text: "the work vs The Work", link: "/ptar" },
           { text: "State/Proposal/Expectaions", link: "/about" },
+          { text: "The Internet is Hard", link: "/theInternet" },
+          { text: "The Offering", link: "/offering" },
+          { text: "the work vs The Work", link: "/ptar" },
         ],
       },
       {
         text: "Marketing Guide",
         collapsible: true,
         items: [
-          { text: "Approach", link: "/marketing/start" },
-          { text: "Aphorisms", link: "/marketing/aphorisms" },
-          { text: "Frameworks", link: "/marketing/frameworks-start" },
-          { text: "StoryBrand", link: "/marketing/storybrand" },
-          { text: "MomentMomentum", link: "/marketing/momentMomentum" },
+          { text: "Approach", link: "/marketing/frameworks-start" },
+          { text: "Techniques", link: "/marketing/aphorisms" },
+          { text: "Strategies", link: "/marketing/frameworks-start" },
+          { text: "StoryBrand Framework", link: "/marketing/storybrand" },
+          { text: "MomentMomentum Framework" , link: "/marketing/momentMomentum" },
         ],
       },
       {

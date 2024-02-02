@@ -1,12 +1,14 @@
 ## The Internet is Hard
 
+Let's back up! 
+
 Navigating the digital world is tough. The internet offers endless opportunities, but also demands constant attention and recognition. It's easy to feel lost in the sea of voices out there.  
 
 Tim Ferriss' approach of "A category of one." Basically, it's about finding your unique identity by placing yourself in catagories that otherwise don't usually crossover. 
 
 Niche down => niche down => niche down = become the "only" and win
 
-## Choices = Placement
+## Choice = Placement
 
 Every choice places the brand into a kind of category. Each category has associative baggage. This is neither good or bad. It just is we can use to either associate with or go against as a function of niching down. These design choices compound in one way or the other. It is easy to have conflicting choices if the brand's identity and placement is not sufficiently articulated beforehand. Clarity is king!
 

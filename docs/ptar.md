@@ -82,6 +82,11 @@ Product-Market fit
 If we can answer these questions we might have a chance. What direction we are facing? What agendas we are pursueing? What is the ROAS? What about this approach is/isn't working? 
 :::
 
+
+### Moving Forward 
+
+The rest of this documentation is organize according to craft/mode. They can augment each other but might work best central to your discipline at least in the beginning. 
+
 <br>
 
 :::tip Competition is Healthy   
