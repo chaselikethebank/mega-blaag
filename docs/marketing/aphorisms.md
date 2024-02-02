@@ -3,7 +3,7 @@
 
 What is a marketing technique? 
 
-Mabye... The small repeatable actions we take with intentionallity to sharpen our message to garner results. 
+Mabye... The small repeatable actions we take with intentionallity to sharpen our message to garner desireable results. 
 
 Here are some techniques. Try these aphorisms to easily remember the executables we are investing in. 
 
@@ -18,6 +18,8 @@ Here are some techniques. Try these aphorisms to easily remember the executables
 | 📣 **Call to Action** | Every post, every page, every touch point should engage the audience to do something right now. |
 | 🖼️ **Perspective**    | Copy written in the first person has the least friction. "Hey, I am signing up today!." - The person on camera / the copywritter themself **Tread lightly as this is very difficult to do authentically.** |
 | 🏐 **Serve and Volley** | To engage is reply to everyone in a way that solicits an additional reply |
+| ⚡ **Emotion is Contagious** | Display happy, transmit happy. Display sad, transmit sad. Because high-energy is the fuel for action, we display high-energy to transmit high-energy. |
+
 
 ## Don'ts
 

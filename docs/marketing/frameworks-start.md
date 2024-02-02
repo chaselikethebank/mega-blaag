@@ -16,19 +16,22 @@ Learning different marketing and copywriting Frameworks serves several crucial p
 
 ### momentMomentum
 
-It is very easy to get wrapped up in the event or the actual product (think book or record) so much so that when you turn to the communicating/sharing of the content you simply "post about it". Then, once you have "posted about it", it kind of doesn't make sense to keep "posting about it" becuase your audience will lose interest. The momentMomentum strategy helps you frame the single product (think book or record) in different ways through time. momentMomentum keeps the content freshly framed, drives your product home with clarity, and tells an engaging story in the process. Storytelling is always a win! 
+It is very easy to get wrapped up in the event or the actual product (think book or record) so much so that when you turn to the communicating/sharing of the content you simply "post about it". Then, once you have "posted about it", it kind of doesn't make sense to keep "posting about it" becuase your audience will lose interest. The momentMomentum strategy helps you frame the single product (think book or record) in different ways through time. momentMomentum keeps the content freshly framed, drives your product home with clarity, and tells an engaging story in the process. Storytelling is always a win! It also is a great solution when you are posting on behalf of a brand/content creator/group and you need to communicate to the the expectation of the number of posts and the framing they should deliver in the content that makes sense for the Pre/Prime/Live/ICYMI post types of the momentMomentum framework.
 
-### PAS Formula
+### StoryBrand Framework
 
-The PAS Formula (Problem, Agitation, Solution) is particularly useful for addressing customer pain points and offering solutions. It acknowledges the customer's problem, intensifies their agitation, and presents a clear solution, making it highly effective for sales pages, landing pages, and ad copy. If we are moving from the cusumtion side of content (most people) to the creation side of content. 
+The StoryBrand Framework emphasizes making the customer the hero of the story. It guides marketers to position their offerings as the guide through the customer's journey, ultimately aiming for clarity in messaging. This is a good framework to start with. The StoryBrand framework works well for campaign-based projects. 
 
 ### Content Pyramid
  
 The Content Pyramid model is a utilitarian way to organize and prioritize content from the top down. It typically consists of three layers: foundational long-form content, the repurposed short form of the foundational layer, and finaly micro content repurposed from the short form content. The Content Pyramid model helps tie together both the planning phase and distribution phase of content marketing and allocating resources.
 
-### StoryBrand Framework
+### PAS Formula
 
-The StoryBrand Framework emphasizes making the customer the hero of the story. It guides marketers to position their offerings as the guide through the customer's journey, ultimately aiming for clarity in messaging. This is a good framework to start with. The StoryBrand framework works well for campaign-based projects. 
+The PAS Formula (Problem, Agitation, Solution) is particularly useful for addressing customer pain points and offering solutions. It acknowledges the customer's problem, intensifies their agitation, and presents a clear solution, making it highly effective for sales pages, landing pages, and ad copy. If we are moving from the cusumtion side of content (most people) to the creation side of content. 
+
+
+
 
 ## Exploration
 

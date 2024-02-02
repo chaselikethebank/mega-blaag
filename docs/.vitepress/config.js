@@ -53,8 +53,13 @@ export default defineConfig({
           { text: "Approach", link: "/marketing/frameworks-start" },
           { text: "Techniques", link: "/marketing/aphorisms" },
           { text: "Strategies", link: "/marketing/frameworks-start" },
-          { text: "StoryBrand Framework", link: "/marketing/storybrand" },
           { text: "MomentMomentum Framework" , link: "/marketing/momentMomentum" },
+          { text: "StoryBrand Framework", link: "/marketing/storybrand" },
+          { text: "Growth Hacking", link: "/marketing/growth-hacking" },
+
+          { text: "Content Pyramid", link: "/marketing/content-pyramid" },
+          { text: "PSA" , link: "/marketing/psa" },
+
         ],
       },
       {
