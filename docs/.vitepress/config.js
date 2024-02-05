@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  title: "Docs HQ",
+  title: "Mega Blaag",
   description: "Explore documentation, style guide, and design patterns.",
   head: [
     [
@@ -22,7 +22,7 @@ export default defineConfig({
   ],
   themeConfig: {
     logo: "/star1.svg",
-    siteTitle: "Docs HQ",
+    siteTitle: "Mega Blaag",
     nav: [
       { text: "Getting Started", link: "/theInternet" },
       { text: "Contact", link: "/contact" },
@@ -78,13 +78,7 @@ export default defineConfig({
         collapsible: true,
         items: [{ text: "Instagram", link: "/posting/instagram-checklist" }],
       },
-      {
-        text: "Ministries",
-        collapsible: true,
-        items: [{ text: "NextGen", link: "/ministries/nextgen" },
-        { text: "Espanol", link: "/ministries/espanol" }],
-   
-      },
+      
       {
         text: "Design Patterns",
         collapsible: true,
