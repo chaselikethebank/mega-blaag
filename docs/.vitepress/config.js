@@ -74,9 +74,9 @@ export default defineConfig({
         ],
       },
       {
-        text: "Posting Checklist",
+        text: "Steps",
         collapsible: true,
-        items: [{ text: "Instagram", link: "/posting/instagram-checklist" }],
+        items: [{ text: "Steps", link: "/posting/instagram-checklist" }],
       },
       
       {
